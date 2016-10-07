@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Угадай число</string>
+    <string name="action_settings">Settings</string>
+    <string name="behind">Маловато будет!</string>
+    <string name="ahead">Ну это уж слишком!</string>
+    <string name="hit">Вот это мой размерчик!</string>
+    <string name="input_values">Вводим число</string>
+    <string name="play_more">А давай ещё разок!</string>
+    <string name="try_to_guess">Попробуй ка угадать число (1 &#8211; 100)</string>
+    <string name="error">Ничего не понимаю!</string>
+</resources>
